@@ -15,7 +15,7 @@ Sou estudante de Engenharia de Computação na FIAP, apaixonado por desenvolvime
 
 <!-- Currently learning -->
 ### 🌱 Atualmente, estou aprendendo:
-Além do desenvolvimento de software, estou explorando áreas como ciência de dados, aprendizado de máquina e arquitetura de sistemas. Estou comprometido em expandir meu conhecimento e contribuir para projetos que tenham um impacto positivo.
+Além do desenvolvimento de software, estou explorando áreas como ciência de dados, aprendizado de máquina e arquitetura de sistemas.
 
 <!-- Contact -->
 ### 📫 Como me encontrar:
