@@ -25,7 +25,7 @@ Além do desenvolvimento de software, estou explorando áreas como ciência de d
 <!-- Skills -->
 ### 🚀 Habilidades:
 - Computação em Nuvem: AWS (conceitos, fundamentos, serviços básicos)
-- Linguagens de Programação: Python
+- Linguagens de Programação: Python e JavaScript
 - Banco de Dados
 - Compreensão de redes de computadores
 
