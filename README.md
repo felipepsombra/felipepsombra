@@ -20,7 +20,7 @@ Além do desenvolvimento de software, estou explorando áreas como ciência de d
 <!-- Contact -->
 ### 📫 Como me encontrar:
 - Email: pinheirofelipe1248@gmail.com
-- LinkedIn: [felipepsombra](https://www.linkedin.com/in/eufelipepinheiro/)
+- LinkedIn: [eufelipepinheiro](https://www.linkedin.com/in/eufelipepinheiro/)
 
 <!-- Skills -->
 ### 🚀 Habilidades:
